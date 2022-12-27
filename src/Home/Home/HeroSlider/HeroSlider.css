@@ -1,0 +1,24 @@
+.main-slider{
+    margin-top: 20px;
+    border-radius: 9px;
+}
+.carousel .thumb{
+    width: 5%;
+    height: 50px;
+    box-sizing: border-box;
+}
+.thumb{
+    border: 2px solid #a2d2ff;
+}
+.carousel{
+    text-align: center;
+}
+.carousel .control-dots .dot{
+    background-color: #454545;
+}
+.carousel .slide .legend{
+    letter-spacing: 4px;
+    color: #a2d2ff;
+    font-weight: bold;
+    font-size: 18px;
+}

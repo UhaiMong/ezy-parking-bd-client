@@ -1,0 +1,56 @@
+[
+    {
+        "_id": 1,
+        "name": "Ujani Para Bondo Car Parking Express",
+        "description": "We are located at Balaghata, Bandarban. You can find us using Google map and Direct contact us using given bellow contact information.",
+        "mapURL": "https://goo.gl/maps/asUHaS6UGwnKf5pM7",
+        "phone": "+8801777777000",
+        "slots": 50,
+        "price": 15
+    },
+    {
+        "_id": 2,
+        "name": "Bandarban Shanto Car Service and Parking.",
+        "description": "We are located at Balaghata, Bandarban. You can find us using Google map and Direct contact us using given bellow contact information.",
+        "mapURL": "https://goo.gl/maps/asUHaS6UGwnKf5pM7",
+        "phone": "+8801777777000",
+        "slots": 100,
+        "price": 15
+    },
+    {
+        "_id": 3,
+        "name": "Bandarban Laho car Parking and Services",
+        "description": "We are located at Balaghata, Bandarban. You can find us using Google map and Direct contact us using given bellow contact information.",
+        "mapURL": "https://goo.gl/maps/asUHaS6UGwnKf5pM7",
+        "phone": "+8801777777000",
+        "slots": 16,
+        "price": 15
+    },
+    {
+        "_id": 4,
+        "name": "Balaghata Safety Park Express",
+        "description": "We are located at Balaghata, Bandarban. You can find us using Google map and Direct contact us using given bellow contact information.",
+        "mapURL": "https://goo.gl/maps/asUHaS6UGwnKf5pM7",
+        "phone": "+8801777777000",
+        "slots": 9,
+        "price": 15
+    },
+    {
+        "_id": 5,
+        "name": "Balaghata Motor Parking",
+        "description": "We are located at Balaghata, Bandarban. You can find us using Google map and Direct contact us using given bellow contact information.",
+        "mapURL": "https://goo.gl/maps/asUHaS6UGwnKf5pM7",
+        "phone": "+8801777777000",
+        "slots": 10,
+        "price": 15
+    },
+    {
+        "_id": 6,
+        "name": "Balaghata Smart Park",
+        "description": "We are located at Balaghata, Bandarban. You can find us using Google map and Direct contact us using given bellow contact information.",
+        "mapURL": "https://goo.gl/maps/asUHaS6UGwnKf5pM7",
+        "phone": "+8801777777000",
+        "slots": 200,
+        "price": 15
+    }
+]
